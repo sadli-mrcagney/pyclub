@@ -29,4 +29,4 @@ Due 3 Sep 2014.
 
 Redo Challenge 1, but use `the latest Brisbane GTFS feed <http://gtfs.s3.amazonaws.com/translink-seq_20140717_0348.zip>`_, which has no distance data.  
 
-Suggestion: use Shapely and utm to calculate distances.
+Suggestion: use utm and Shapely to calculate trip distance.

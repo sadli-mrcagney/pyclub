@@ -19,10 +19,10 @@ Take the Portland GTFS feed and compile data about its trips as a CSV file with 
 
 Note that the Portland feed distances are in feet.
 
-Hint: Use Pandas. 
+Suggestion: use Pandas. 
 
 Challenge 2
 ============
 Redo Challenge 1, but use the Brisbane feed, which has no distance data.  
 
-Hint: Use Shapely and utm to calculate distances.
+Suggestion: use Shapely and utm to calculate distances.

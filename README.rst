@@ -5,15 +5,15 @@ A work-time meetup about Python and data science at MRCagney.
 
 Introduction
 =============
-- Motivation: Upskill on Python for data science. Python is useful, data science is useful, and the two together are a powerful combination.
-- Focus on: Tools and processes for analyzing transit and geospatial data, because that's our main work at MRCagney
-- Third-party Python libraries that we will use a lot are
+- Motivation. Upskill on Python for data science. Python is useful, data science is useful, and the two together are a powerful combination.
+- Focus. Tools and processes for analyzing transit and geospatial data, because that's our main work at MRCagney
+- Third-party Python libraries that we will use a lot:
     * NumPy for numerical computing
     * Pandas for tabular data
     * Shapely and Fiona for geospatial data
     * Geopandas, which combines Shapely with Pandas
     * GTFSTK for GTFS feeds
-- Other notable third-party Python libraries for data science are
+- Other notable third-party Python libraries for data science:
     * SciPy for scientific/engineering computing
     * Matplotlib and Seaborn for plotting and (static) visualization.
     * Statsmodels for statistical modeling

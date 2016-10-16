@@ -1,12 +1,13 @@
 PyClub 
 *******
-A work-time meetup about Python and data science at MRCagney.
+This is a repository of supporting material for PyClub, a work-time meetup about Python and data science at MRCagney.
 
 
 Introduction
 =============
 - Motivation: Upskill on Python for data science. Python is useful, data science is useful, and the two together are a powerful combination.
 - Focus: Tools and processes for analyzing transit and geospatial data, because that's our main work at MRCagney
+- Assumption: You have Python proficiency at the level of, say, the `Codeacademy Python2 tutorial <https://www.codecademy.com/learn/python>`_. We will be using Python3, but they're not too different.
 - Third-party Python libraries that we will use a lot:
     * NumPy for numerical computing
     * Pandas for tabular data
